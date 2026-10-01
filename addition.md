@@ -1,1 +1,1 @@
-the addition of 2 integers works by combining the integers. for example 3 + 1 = 5
+the addition of 2 integers works by combining the integers. for example 3 + 1 = 4
